@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Tetiana Ilienko</h1>
-<h3 align="center">I am Jounior Java Backend Developer from Gemany.</h3>
+<h2 align="left">Hi 👋, I'm Tetiana Ilienko</h1>
+<h3 align="left">I am Jounior Java Backend Developer from Gemany.</h3>
 
 - 🌱 I’m currently learning **Java end all about Framework Spring Boot.**
-
 - 📫 How to reach me **tatyanailyenko@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/11z7Ht7KHzKBgEQlgGnOGqfEMRBd9SluXQz2qbLlK6Mo/edit?usp=sharing](https://docs.google.com/document/d/11z7Ht7KHzKBgEQlgGnOGqfEMRBd9SluXQz2qbLlK6Mo/edit?usp=sharing)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/11z7Ht7KHzKBgEQlgGnOGqfEMRBd9SluXQz2qbLlK6Mo/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tetiana-ilienko-90a2b0282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tetiana-ilienko-90a2b0282/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/tetiana-ilienko-90a2b0282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tetiana-ilienko-90a2b0282" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
