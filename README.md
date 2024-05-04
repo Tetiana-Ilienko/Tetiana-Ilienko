@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Tetiana Ilienko</h1>
 <h3 align="left">I am Jounior Java Backend Developer from Gemany.</h3>
 
-- 🌱 I’m currently learning **Java end all about Framework Spring Boot.**
+- 🌱 I’m currently learning **Java and all about Framework Spring Boot.**
 - 📫 How to reach me **tatyanailyenko@gmail.com**
 
 - 📄 Know about my experiences [CV](https://docs.google.com/document/d/11z7Ht7KHzKBgEQlgGnOGqfEMRBd9SluXQz2qbLlK6Mo/edit?usp=sharing)
